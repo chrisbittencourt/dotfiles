@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = christianebittencourt.m@gmail.com
+	name = Christiane Bittencourt
